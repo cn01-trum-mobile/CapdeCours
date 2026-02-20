@@ -60,7 +60,7 @@ Tải file APK tại đây:
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1G6HguScF-K-VYe7tPWVIxrd02aJe9rf7)
 
 ### 🍎 iOS
-Trên iOS thì hơi phức tạp một chút, các bạn có thể sử dụng bằng cách dưới đây:
+Trên iOS, các bạn có thể sử dụng thông qua `Expo` bằng cách dưới đây:
 1. Cài **Expo Go** từ App Store
 2. Quét mã QR bằng camera dưới đây:
 
